@@ -1,5 +1,5 @@
 # Auto Deployment Webhook
-## Node Service to auto deploy code on webhooh request
+## Node Service to auto deploy code on webhook request
 
 ### How to Setup
 - pull code on server 
