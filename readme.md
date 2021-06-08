@@ -23,3 +23,15 @@ openssl req -new -key key.pem -out csr.pem
 openssl x509 -req -days 9999 -in csr.pem -signkey key.pem -out cert.pem
 rm csr.pem
 ```
+
+## To DO:
+
+- make it compatiable with 
+- Github
+- Bitbucket 
+
+Feedback and improvements are welcomed
+
+## credits
+
+- AlqaTech Team (https://www.alqatech.com)
