@@ -1,0 +1,16 @@
+{
+
+    "config_id": "development",
+    "app_name": "Git Webhook",
+    "app_desc": "Git webhook Service",
+    "server_port": 8081,
+    "server_ip": "",
+    "error_log": "./logs/error.log",
+    "combined_log": "./logs/combined.log",
+    "secret": "secret",
+    "branch": "master",
+    "secure_only": "yes",
+    "key_file": "cert/key.pem",
+    "cert_file":"cert/cert.pem"
+
+}
